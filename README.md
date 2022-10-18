@@ -1,4 +1,4 @@
-#FAQ-accordion-card
+# FAQ-accordion-card
 
 ## Welcome! 
 Thanks for checking out this Application.
